@@ -9,7 +9,7 @@ In this study, a metric called Disparate Impact ratio is used for detecting bias
 ###  Data:
 The data for stop, question and frisk for the year 2019 in New York is obtained from https://www1.nyc.gov/site/nypd/stats/reports-analysis/stopfrisk.page .
 
-### Progrmming language:
+### Programming language:
 Python 3 and above
 
 ### Dependencies:
