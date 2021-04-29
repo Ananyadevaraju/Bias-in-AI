@@ -18,4 +18,4 @@ Install the following packages,
 * fairlearn
 * BlackBoxAuditing
 
-### To execute the code, open the "Assignment-2" notebook in colab and run each piece of code
+To execute the code, open the "Assignment-2" notebook in colab and run each piece of code
